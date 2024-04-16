@@ -1,2 +1,2 @@
 def WhoAmI():
-    return('bk2899')
+    return('')
