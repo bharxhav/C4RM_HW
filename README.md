@@ -12,6 +12,16 @@ Please follow the following instructions:
 - Select a folder on your computer as the local repository.
 - Commit the changes.
 
+### File Names and Function Names
+
+- WhoAmI_File.py (Function: WhoAmI)
+- BondPrice_File.py (Function: getBondPrice)
+- BondDuration_File.py (Function: getBondDuration)
+- BondPrice_E_File.py (Function: getBondPrice_E)
+- BondPrice_Z_File.py (Function: getBondPrice_Z)
+- FizzBuzz_File.py (Function: FizzBuzz)
+
+
 ## First Practice Steps
 
 - Edit the template files in the repository.
